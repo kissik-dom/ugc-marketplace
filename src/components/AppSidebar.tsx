@@ -1,4 +1,5 @@
-import { useAuthActions } from "@convex-dev/auth/react";
+// Safe stub: useAuthActions
+const useAuthActions = () => ({ signIn: async (..._a: any[]) => {}, signOut: async () => { window.location.href = "/"; } });
 import { useQuery } from "convex/react";
 import { Bookmark, Briefcase, Home, LogOut, Search, Settings, ShoppingBag, TrendingUp } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
