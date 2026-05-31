@@ -1,5 +1,9 @@
+export { CampaignsPage } from "./CampaignsPage";
 export { DashboardPage } from "./DashboardPage";
 export { LandingPage } from "./LandingPage";
 export { LoginPage } from "./LoginPage";
+export { SavedPage } from "./SavedPage";
+export { SearchPage } from "./SearchPage";
 export { SettingsPage } from "./SettingsPage";
 export { SignupPage } from "./SignupPage";
+export { TrendingPage } from "./TrendingPage";
